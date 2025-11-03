@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+  <header style="padding:16px;border-bottom:1px solid #ddd">
+    <nav style="display:flex;gap:12px;flex-wrap:wrap">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/projects/">Projects</a>
+      <a href="{{ site.baseurl }}/experience/">Experience</a>
+      <a href="{{ site.baseurl }}/about/">About</a>
+      <a href="{{ site.baseurl }}/contact/">Contact</a>
+    </nav>
+  </header>
+  <main class="container" style="max-width:1100px;margin:0 auto;padding:24px">
+    {{ content }}
+  </main>
+  <footer style="padding:16px;border-top:1px solid #ddd;text-align:center">
+    © {{ 'now' | date: '%Y' }} {{ site.title }}
+  </footer>
+</body>
+</html>
