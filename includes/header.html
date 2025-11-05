@@ -1,9 +1,19 @@
+{% assign current = page.url | default: '/' %}
+{% if current == '/index.html' %}
+  {% assign current = '/' %}
+{% endif %}
+{% assign nav_items = "Home:/|Projects:/projects/|Experience:/experience/|About:/about/|Contact:/contact/" | split: '|' %}
 <header class="site-header">
-  <nav class="nav">
-    <a href="/">Home</a>
-    <a href="/projects/">Projects</a>
-    <a href="/experience/">Experiences</a>
-    <a href="/about/">About Me</a>
-    <a href="/contact/">Contact</a>
-  </nav>
+  <div class="site-header__inner container">
+    <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav class="site-nav" aria-label="Primary">
+      {% for item in nav_items %}
+        {% assign pair = item | split: ':' %}
+        {% assign label = pair[0] %}
+        {% assign url = pair[1] %}
+        {% assign is_active = current == url %}
+        <a class="site-nav__link{% if is_active %} is-active{% endif %}" href="{{ url | relative_url }}"{% if is_active %} aria-current="page"{% endif %}>{{ label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
 </header>
