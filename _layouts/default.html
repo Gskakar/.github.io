@@ -2,14 +2,30 @@
 <html lang="en">
 <head>
   {% include head.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  {% include header.html %}
-  <main class="site-main">
-    <div class="content flow">
-      {{ content }}
-    </div>
+  <header class="site-header">
+    <nav class="nav">
+      <div class="nav-brand">
+        <a href="{{ '/' | relative_url }}" style="text-decoration:none; color:inherit;">
+          Gurkeerat Singh Kakar
+        </a>
+      </div>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/experience/' | relative_url }}">Experience</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container">
+    {{ content }}
   </main>
+
   {% include footer.html %}
 </body>
 </html>
