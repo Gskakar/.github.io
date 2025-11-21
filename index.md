@@ -6,6 +6,8 @@ title: Home
 # Hi, I’m Gurkeerat Singh Kakar
 Data Science & Analytics Enthusiast — I turn messy data into meaningful insights and clear decisions.
 
+<img src="/assets/IMG_7685.jpg" alt="Gurkeerat Kakar headshot" class="headshot">
+
 I am a Computing Science student at the **University of Alberta (Class of 2026)**, specializing in data science, analytics, and data-driven problem solving. My interests lie in transforming complex datasets into engaging visualizations, actionable insights, and impactful solutions for real-world problems.
 {: .lead }
 

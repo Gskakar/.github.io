@@ -18,6 +18,7 @@ title: Experience
 *Feb 2025 - Jul 2025*  
 - Automated **MySQL + Power BI** reporting workflows (~30% time reduction) and built KPI dashboards to track user engagement and performance.  
 - Conducted data quality checks, defined KPIs, and used data storytelling to drive a **~20% increase in user interaction and course completions**.
+- <a href="/assets/lor_skillup.pdf" target="_blank">Reference Letter – SkillUp</a>
 
 ---
 
@@ -25,7 +26,7 @@ title: Experience
 *May 2024 – Apr 2025*  
 - Revived the **I-Card discount program**, restructured internal teams, and coordinated mental wellness initiatives for international students.  
 - Recipient of the **UASU Students' Union Global Connection Award** for fostering inclusion and intercultural engagement on campus.
-
+- <a href="/assets/lor_isa.pdf" target="_blank">Reference Letter – UAISA (International Students’ Association)</a>
 ---
 
 ### **Sales Associate: JD Sports**  

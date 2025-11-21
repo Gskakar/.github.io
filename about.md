@@ -25,6 +25,8 @@ I enjoy solving messy problems, creating clarity through data, and building tool
 
 When I’m not working with datasets or dashboards:
 
+<img src="/assets/IMG_7685.JPG" alt="Hobbies" class="about-image">
+
 - **Football (Soccer)** is my escape and inspiration — I follow European leagues passionately and love understanding the tactical and analytical side of the game.
 - **Music** is where I create. I enjoy composing, experimenting with melodies, and performing when I get the chance.
 - I enjoy reading when I can, especially books on habits, routines, time management, and insightful biographies.

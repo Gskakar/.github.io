@@ -25,6 +25,14 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.headshot {
+  width: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1.5rem; /* center + space below */
+  object-fit: cover;
+}
+
 /* Layout */
 .container {
   max-width: 1100px;
@@ -102,6 +110,25 @@ p {
   color: var(--text);
 }
 
+.cert-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.cert-card {
+  max-width: 260px;
+  text-align: center;
+}
+
+.cert-card img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
 /* Links */
 a {
   color: var(--accent);
@@ -133,6 +160,17 @@ a:hover {
 .section-title {
   font-size: 20px;
 }
+
+.about-image {
+  width: 70%;
+  max-width: 400px;
+  border-radius: 16px;
+  display: block;
+  margin: 1rem auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  object-fit: cover;
+}
+
 
 /* Cards */
 .card {

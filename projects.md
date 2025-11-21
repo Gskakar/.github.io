@@ -28,7 +28,7 @@ Analyzed multi-table business datasets using Python and Excel, and developed a *
 ---
 
 ### **LuckySpot – Lottery-Based Event Management App**  
-*Kotlin/Java · Firebase · Android Studio · Agile/Scrum*  
+*Java · Firebase · Android Studio · Agile/Scrum*  
 Co-developing a mobile application that enables **fair lottery-based event participation** with three interactive user roles:  
 - 🎟 **Entrants** – join events and enter lotteries  
 - 🛠 **Organizers** – create and manage events  
