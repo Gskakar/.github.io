@@ -9,7 +9,7 @@ title: Home
     <p><strong>Data Science &amp; Analytics Enthusiast</strong>, I transforming complex datasets into clear insights, actionable strategies, and data driven decisions.</p>
 
     <p>
-      I am a Computing Science student at the <strong>University of Alberta (Class of 2026)</strong>, specializing in data science and analytics. 
+      I am a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
     </p>
   </div>
 
@@ -20,7 +20,7 @@ title: Home
 
 ## Current Focus
 - B.Sc. in Computing Science (Specialization) pursuing certification in Applied Data Science  
-- Science Internship (Co-op) Program, eligible for 4–12 month full-time work terms  
+- Science Internship (Co-op) Program, eligible for 4-12 month full time work terms  
 - Recipient of the **UASU Students’ Union Award for Global Connection**  
 - Building skills in data engineering, visualization, and analytical modelling
 
