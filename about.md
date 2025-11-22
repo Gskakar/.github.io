@@ -22,7 +22,7 @@ title: About
   </div>
 
   <div class="about-aside">
-    <img src="/assets/IMG_7685.JPG" alt="Gurkeerat performing music" class="about-image">
+    <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performing music" class="about-image">
     <p class="about-caption">
       Outside work, I enjoy performing and exploring music alongside football, reading, and cooking.
     </p>

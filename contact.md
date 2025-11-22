@@ -22,7 +22,12 @@ title: Contact
     <h2>Résumé</h2>
     <p>You can download my current résumé here:</p>
     <p>
-      <a class="button button-primary" href="/assets/resume.pdf">Download résumé</a>
+      <a class="button button-primary" href="/assets/Gurkeerat_SK_Resume.pdf">Download résumé</a>
     </p>
+
+  <p style="color: var(--muted); font-size: 14px;">
+  If you encounter any broken links or access issues while browsing my site, please reach out — I’m happy to resolve them quickly.
+</p>
+
   </div>
 </div>
