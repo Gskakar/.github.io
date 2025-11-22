@@ -5,29 +5,46 @@ title: About
 
 # About Me
 
-<div class="side-by-side">
-  <div class="text">
-    My interest in problem-solving began with observing patterns—on a football field, in music, and in the way data shapes decisions. Over time, this curiosity evolved into a passion for understanding how systems work and how information can be used to make them better.
+<div class="about-layout">
+  <div class="about-text">
+    <p>
+      I have always been drawn to patterns—whether in how teams move on a football pitch, 
+      how melodies repeat in music, or how numbers guide decisions in organisations.
+    </p>
 
-    At the University of Alberta, my academic work in statistics, data analysis, and database systems strengthened this interest. I learned how data can be structured, analysed, and transformed into insights that bring clarity to complex problems.
+    <p>
+      That curiosity developed into a focus on data. Through coursework in statistics, data analysis, 
+      and database systems at the University of Alberta, I learned how information can be structured, 
+      analysed, and translated into practical insight.
+    </p>
 
-    Since then, I’ve built dashboards, analysed trends, and used tools such as Python, R, SQL, and Power BI to create meaningful, data-driven solutions. I am currently pursuing Computing Science with a growing focus on data science, analytics, and visualization.
+    <p>
+      Since then, I have been working with Python, R, SQL, and tools like Power BI to build dashboards, 
+      analyse trends, and support policy and business decision making. I am currently pursuing a 
+      B.Sc. in Computing Science with a growing interest in data science, business analytics, 
+      and visualization.
+    </p>
+
+    <p>
+      What motivates me most is taking open-ended, messy questions and using data to bring clarity, 
+      whether for researchers, organisations, or student communities.
+    </p>
   </div>
 
-  <img src="/assets/IMG_7685.jpg" alt="Hobbies photo">
+  <div class="about-photo">
+    <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performance" class="about-image">
+  </div>
 </div>
 
-I enjoy solving analytical challenges, bringing structure to unorganized information, and building tools that help people make informed decisions.
+---
+
+## Outside the Data World
+
+- <strong>Football:</strong> I follow European football closely and enjoy thinking about the tactical and analytical side of the game.  
+- <strong>Music:</strong> I play and perform music, which keeps me creative and comfortable in front of audiences.  
+- <strong>Reading:</strong> I gravitate toward books on habits, systems, time management, and biographies.  
+- <strong>Cooking:</strong> Cooking is where I slow down, experiment, and reset after busy weeks.
 
 ---
 
-### Outside the Data World
-
-- I follow European football closely and enjoy analysing tactics and gameplay.
-- Music is another creative outlet—I compose, experiment with melodies, and perform when I can.
-- I read regularly, especially books on personal growth, habits, and insightful biographies.
-- Cooking is something I turn to when I need a break or a slower pace.
-
----
-
-At my core, I’m someone who learns by exploring—whether through sports, music, coding, or analysing real-world systems. Data analytics became the bridge between my curiosity, creativity, and problem-solving mindset, and I continue building on that foundation with every project I take on.
+At my core, I am a curious and structured problem solver, combining analytical skills with communication and collaboration to create work that is both rigorous and practical.
