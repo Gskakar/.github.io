@@ -14,7 +14,7 @@ title: About
     Since then, I’ve built dashboards, analysed trends, and used tools such as Python, R, SQL, and Power BI to create meaningful, data-driven solutions. I am currently pursuing Computing Science with a growing focus on data science, analytics, and visualization.
   </div>
 
-  <img src="/assets/IMG_7685.JPG" alt="Hobbies photo">
+  <img src="/assets/IMG_7685.jpg" alt="Hobbies photo">
 </div>
 
 I enjoy solving analytical challenges, bringing structure to unorganized information, and building tools that help people make informed decisions.

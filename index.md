@@ -23,7 +23,7 @@ Data Science & Analytics Enthusiast — I turn messy data into meaningful insigh
   </div>
 
   <div style="flex:0 0 220px; text-align:center;">
-    <img src="/assets/IMG_7876.jpg" alt="Gurkeerat Kakar headshot" class="headshot" style="margin:0 auto;">
+    <img src="/assets/IMG_7876.JPG" alt="Gurkeerat Kakar headshot" class="headshot" style="margin:0 auto;">
   </div>
 </div>
 
