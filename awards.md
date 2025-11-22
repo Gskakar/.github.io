@@ -17,7 +17,7 @@ Here are a few selected academic, leadership, and technical recognitions.
   </div>
 
   <div class="cert-card">
-    <img src="/assets/uasu_award.jpg" alt="Receiving UASU Award">
+    <img src="/assets/uasu_award.jpeg" alt="Receiving UASU Award">
     <p>Receiving the Global Connection Award</p>
   </div>
 </div>

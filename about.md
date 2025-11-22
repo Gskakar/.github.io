@@ -6,6 +6,8 @@ title: About
 # About Me
 
 <div class="about-layout">
+
+  <!-- LEFT SIDE CONTENT -->
   <div class="about-main">
     <p>
       I have always been drawn to patterns, whether in football tactics, musical structure, or the way data reflects our world.
@@ -27,11 +29,14 @@ title: About
     </ul>
   </div>
 
+
   <div class="about-aside">
     <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performing music" class="about-image">
     <p class="about-caption">Amateur singer and performer.</p>
-
-    <img src="/assets/soccer.jpg" alt="Playing soccer" class="about-image">
+    
+  <div class="about-aside">
+    <img src="/assets/intramural_pic.jpeg" alt="Playing soccer" class="about-image">
     <p class="about-caption">Football Intramural League.</p>
   </div>
+
 </div>
