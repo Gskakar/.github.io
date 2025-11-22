@@ -188,15 +188,15 @@ p {
   box-shadow: 0 18px 40px rgba(15, 23, 42, 0.9);
 }
 
+/* Home-page side headshot */
 .headshot-side {
-  width: 260px;              
-  float: right;             
-  margin: 0 0 20px 24px;     
-  border-radius: 12px;       
+  width: 260px;
+  float: right;
+  margin: 0 0 20px 24px;
+  border-radius: 12px;
   box-shadow: 0 4px 14px rgba(0,0,0,0.25);
   object-fit: cover;
 }
-
 
 /* Certifications grid */
 .cert-grid {
@@ -272,22 +272,20 @@ a:hover {
 .about-image {
   width: 100%;
   max-width: 260px;
-  border-radius: 50%;               /* makes it perfectly round */
+  border-radius: 50%;          /* round hobby / award images */
   display: block;
-  margin: 0 auto 16px;              /* centers image & adds spacing */
+  margin: 0 auto 16px;
   box-shadow: 0 14px 30px rgba(15, 23, 42, 0.45);
-  object-fit: cover;                /* ensures the round frame crops correctly */
-  aspect-ratio: 1/1;                /* forces a perfect circle */
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
 }
 
-/* Optional: caption styling below each hobby image */
 .about-caption {
   font-size: 13px;
   color: var(--muted);
   text-align: center;
   margin-bottom: 18px;
 }
-
 
 /* Cards */
 .card {
@@ -311,7 +309,6 @@ a:hover {
   font-size: 14px;
   margin-bottom: 4px;
 }
-
 
 /* Lists */
 ul {
@@ -416,6 +413,14 @@ li {
   .contact-grid {
     grid-template-columns: 1fr;
   }
+
+  /* Make home headshot reasonable on small screens */
+  .headshot-side {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+    width: 180px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -425,15 +430,6 @@ li {
 
   .nav-links {
     gap: 12px;
-  }
-}
-
-@media (max-width: 720px) {
-  .headshot-side {
-    float: none;
-    display: block;
-    margin: 0 auto 20px;
-    width: 180px;
   }
 }
 

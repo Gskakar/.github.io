@@ -12,25 +12,29 @@ Here are a few selected academic, leadership, and technical recognitions.
 
 <div class="cert-grid">
   <div class="cert-card">
-    <img src="/assets/uasu_certificate.jpeg" alt="UASU Students' Union Award for Global Connection certificate">
+    <img src="/assets/uasu_certificate.jpeg" alt="UASU Students’ Union Award Certificate">
     <p>UASU Students’ Union Award for Global Connection</p>
-    <img src="/assets/uasu_award.jpg" alt="Receiving UASU Award" class="about-image">
-    <p class="about-caption">Receiving the UASU Global Connection Award.
-    </p>
+  </div>
+
+  <div class="cert-card">
+    <img src="/assets/uasu_award.jpg" alt="Receiving UASU Award">
+    <p>Receiving the Global Connection Award</p>
   </div>
 </div>
+
+---
 
 ## Certifications
 
 <div class="cert-grid">
   <div class="cert-card">
     <img src="/assets/powerbi_certificate.png" alt="Power BI Certificate">
-    <p>Data Visualization Power BI </p>
+    <p>Power BI — Data Visualization</p>
   </div>
 
   <div class="cert-card">
     <img src="/assets/tableau_certificate.png" alt="Tableau Certificate">
-    <p>Tableau for Data Visualization</p>
+    <p>Tableau Data Visualization</p>
   </div>
 
   <div class="cert-card">
