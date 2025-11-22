@@ -6,45 +6,38 @@ title: About
 # About Me
 
 <div class="about-layout">
-  <div class="about-text">
+  <div class="about-main">
     <p>
-      I have always been drawn to patterns—whether in how teams move on a football pitch, 
-      how melodies repeat in music, or how numbers guide decisions in organisations.
+      I have always been drawn to patterns — whether in football tactics, musical structure, or the way data reflects real-world systems.
     </p>
-
     <p>
-      That curiosity developed into a focus on data. Through coursework in statistics, data analysis, 
-      and database systems at the University of Alberta, I learned how information can be structured, 
-      analysed, and translated into practical insight.
+      At the University of Alberta, this curiosity has developed into a focused interest in data science through courses in statistics, data analysis, and database systems. I learned how data can be structured, analysed, and turned into insights that support better decisions.
     </p>
-
     <p>
-      Since then, I have been working with Python, R, SQL, and tools like Power BI to build dashboards, 
-      analyse trends, and support policy and business decision making. I am currently pursuing a 
-      B.Sc. in Computing Science with a growing interest in data science, business analytics, 
-      and visualization.
+      Since then, I have been building dashboards, analysing trends, and working with Python, R, SQL, and Power BI to transform raw data into practical, usable information.
     </p>
-
     <p>
-      What motivates me most is taking open-ended, messy questions and using data to bring clarity, 
-      whether for researchers, organisations, or student communities.
+      Today, I am pursuing Computing Science with a growing focus on data science, business analytics, and visualization. I am particularly interested in projects where data can clarify complex problems and support policy, operations, or strategic choices.
     </p>
   </div>
 
-  <div class="about-photo">
-    <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performance" class="about-image">
+  <div class="about-aside">
+    <img src="/assets/IMG_7685.JPG" alt="Gurkeerat performing music" class="about-image">
+    <p class="about-caption">
+      Outside work, I enjoy performing and exploring music alongside football, reading, and cooking.
+    </p>
   </div>
 </div>
 
 ---
 
-## Outside the Data World
+### Outside the Data World
 
-- <strong>Football:</strong> I follow European football closely and enjoy thinking about the tactical and analytical side of the game.  
-- <strong>Music:</strong> I play and perform music, which keeps me creative and comfortable in front of audiences.  
-- <strong>Reading:</strong> I gravitate toward books on habits, systems, time management, and biographies.  
-- <strong>Cooking:</strong> Cooking is where I slow down, experiment, and reset after busy weeks.
+- I follow European football closely and enjoy the tactical and analytical side of the game.  
+- Music is a creative outlet where I compose, experiment with melodies, and perform when I can.  
+- I enjoy reading about habits, routines, time management, and thoughtful biographies.  
+- Cooking is often my way to slow down and reset between academic and project work.
 
 ---
 
-At my core, I am a curious and structured problem solver, combining analytical skills with communication and collaboration to create work that is both rigorous and practical.
+At my core, I am motivated by using data and technology to make complex problems easier to understand and act on.

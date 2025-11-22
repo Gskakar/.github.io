@@ -1,38 +1,37 @@
 ---
 layout: default
 title: Awards & Certifications
+permalink: /awards/
 ---
 
-# Awards & Professional Certifications
----
+# Awards & Certifications
 
-<div class="card">
-  <h3>Students’ Union Award for Global Connection</h3>
-  <p class="card-muted">University of Alberta Students' Union</p>
-  <p>
-    Awarded for exceptional dedication to fostering inclusivity, global engagement, and collaborative student experiences across campus communities.
-  </p>
-</div>
+Here are selected academic, leadership, and technical recognitions.
 
----
+## Awards
 
 <div class="cert-grid">
+  <div class="cert-card">
+    <img src="/assets/uasu_certificate.jpeg" alt="UASU Students' Union Award for Global Connection certificate">
+    <p>UASU Students’ Union Award for Global Connection</p>
+  </div>
+</div>
 
+## Certifications
+
+<div class="cert-grid">
   <div class="cert-card">
     <img src="/assets/powerbi_certificate.png" alt="Power BI Certificate">
-    <p>Microsoft Power BI — Data Visualization & Reporting</p>
+    <p>Microsoft Power BI</p>
   </div>
 
   <div class="cert-card">
     <img src="/assets/tableau_certificate.png" alt="Tableau Certificate">
-    <p>Tableau — Interactive Dashboard Design</p>
+    <p>Tableau for Data Visualization</p>
   </div>
 
   <div class="cert-card">
     <img src="/assets/python_basic_certificate.jpg" alt="Python Basics Certificate">
-    <p>Python Programming Basics </p>
+    <p>Python Programming Basics</p>
   </div>
-
 </div>
-
----
