@@ -29,7 +29,7 @@ title: Awards & Certifications
   </div>
 
   <div class="cert-card">
-    <img src="/assets/python_basic_certificate.png" alt="Python Basics Certificate">
+    <img src="/assets/python_basic_certificate.jpg" alt="Python Basics Certificate">
     <p>Python Programming Basics </p>
   </div>
 

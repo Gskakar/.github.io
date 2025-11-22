@@ -5,34 +5,29 @@ title: About
 
 # About Me
 
-I've always been someone just observing patterns. From formations on a football field, melodies in music, or how numbers shape decisions in today's world. 
+<div class="side-by-side">
+  <div class="text">
+    My interest in problem-solving began with observing patterns—on a football field, in music, and in the way data shapes decisions. Over time, this curiosity evolved into a passion for understanding how systems work and how information can be used to make them better.
 
-Over time, this curiosity evolved into a passion for uncovering stories hidden in using data to make sense of the systems around me.
+    At the University of Alberta, my academic work in statistics, data analysis, and database systems strengthened this interest. I learned how data can be structured, analysed, and transformed into insights that bring clarity to complex problems.
 
-With this peculiar interest being deepened in university through courses in statistics, data analysis and database systems. 
+    Since then, I’ve built dashboards, analysed trends, and used tools such as Python, R, SQL, and Power BI to create meaningful, data-driven solutions. I am currently pursuing Computing Science with a growing focus on data science, analytics, and visualization.
+  </div>
 
-That’s where I discovered how data could be structured, analysed, and turned into insights. 
+  <img src="/assets/IMG_7685.JPG" alt="Hobbies photo">
+</div>
 
-Since then, I’ve been building dashboards, analysing trends, and using Python, R, SQL, and Power BI to turn raw data into meaningful stories.
-
-Today, I’m pursuing Computing Science at the University of Alberta with a growing focus on data sciences, business analytics, and visualizations. 
-
-I enjoy solving messy problems, creating clarity through data, and building tools that genuinely help people make informed decisions.
+I enjoy solving analytical challenges, bringing structure to unorganized information, and building tools that help people make informed decisions.
 
 ---
 
 ### Outside the Data World
 
-When I’m not working with datasets or dashboards:
+- I follow European football closely and enjoy analysing tactics and gameplay.
+- Music is another creative outlet—I compose, experiment with melodies, and perform when I can.
+- I read regularly, especially books on personal growth, habits, and insightful biographies.
+- Cooking is something I turn to when I need a break or a slower pace.
 
-<img src="/assets/IMG_7685.JPG" alt="Hobbies" class="about-image">
-
-- **Football (Soccer)** is my escape and inspiration — I follow European leagues passionately and love understanding the tactical and analytical side of the game.
-- **Music** is where I create. I enjoy composing, experimenting with melodies, and performing when I get the chance.
-- I enjoy reading when I can, especially books on habits, routines, time management, and insightful biographies.
-- Cooking is my pause button, when everything else feels too fast...
 ---
 
-At my core, I’m someone who learns by exploring, from playing sports to performing music, from coding apps to analysing real world problems.
-
-Data analytics became the bridge that connected my curiosity, creativity, and problem solving into something meaningful; and I’m still just getting started 😉
+At my core, I’m someone who learns by exploring—whether through sports, music, coding, or analysing real-world systems. Data analytics became the bridge between my curiosity, creativity, and problem-solving mindset, and I continue building on that foundation with every project I take on.

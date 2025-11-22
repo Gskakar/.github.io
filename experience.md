@@ -7,35 +7,40 @@ title: Experience
 
 ---
 
-### Research Assistant: University of Alberta   
-*Sept 2025 - Present*  
-- Analyzing large-scale household survey data using **R**, building spatial dashboards (choropleth maps, trends) to uncover socioeconomic and rural–urban inequalities.  
-- Working with complex datasets to gain **policy-relevant insights**; strengthening skills in data cleaning, visualization, and research communication.
+### Research Assistant — University of Alberta  
+*Sept 2025 – Present*  
+- Analyzing large-scale household survey datasets using **R**, focusing on socioeconomic indicators and rural–urban disparities.  
+- Developing spatial dashboards (choropleth maps, longitudinal trend views) to support evidence-based research and policy evaluation.  
+- Strengthening capabilities in **data cleaning, modelling, visualization, and analytical reporting**.
 
 ---
 
-### **Data/Business Analyst Intern: Skill-Up Technologies**  
-*Feb 2025 - Jul 2025*  
-- Automated **MySQL + Power BI** reporting workflows (~30% time reduction) and built KPI dashboards to track user engagement and performance.  
-- Conducted data quality checks, defined KPIs, and used data storytelling to drive a **~20% increase in user interaction and course completions**.
-- <a href="/assets/lor_skillup.pdf" target="_blank">Reference Letter – SkillUp</a>
+### Data/Business Analyst Intern — Skill-Up Technologies  
+*Feb 2025 – Jul 2025*  
+- Automated **MySQL → Power BI** reporting workflows, reducing manual reporting time by **~30%**.  
+- Designed KPI dashboards that improved user engagement and contributed to a **~20% increase in course completion rates**.  
+- Conducted data validation, A/B testing, and user-behaviour analysis to support product decision making.  
+- <a href="/assets/lor_skillup.pdf" target="_blank">Reference Letter – SkillUp Technologies</a>
 
 ---
 
-### **VP Internal: University of Alberta International Students' Association**  
+### Vice President Internal — University of Alberta International Students' Association  
 *May 2024 – Apr 2025*  
-- Revived the **I-Card discount program**, restructured internal teams, and coordinated mental wellness initiatives for international students.  
-- Recipient of the **UASU Students' Union Global Connection Award** for fostering inclusion and intercultural engagement on campus.
-- <a href="/assets/lor_isa.pdf" target="_blank">Reference Letter – UAISA (International Students’ Association)</a>
+- Revitalized the **I-Card discount program**, restructured internal operations, and enhanced governance consistency across teams.  
+- Led intercultural initiatives and supported community development activities for over 9,000+ international students.  
+- Recipient of the **UASU Students' Union Global Connection Award** for advancing inclusion and campus engagement.  
+- <a href="/assets/lor_isa.pdf" target="_blank">Reference Letter – UAISA</a>
+
 ---
 
-### **Sales Associate: JD Sports**  
-*May 2024 - Sept 2024*  
-- Drew on my communication skills and love for sports to connect with customers and guide them toward the right products.
-- Made thoughtful recommendations that enhanced the shopping experience and contributed to stronger sales.
+### Sales Associate — JD Sports  
+*May 2024 – Sept 2024*  
+- Provided tailored product recommendations by understanding customer needs and sports-specific preferences.  
+- Strengthened communication and customer engagement skills, contributing to improved store sales performance.
+
 ---
 
-### **Line Cook: Cactus Club Cafe**  
-*June 2024 - Sept 2024*  
-- Started kitchen work as a complete newcomer and embraced the challenge of stepping into a fast paced and highly demanding environment.
-- Built resilience, time management, and strong teamwork while working with diverse teams during busy service hours.
+### Line Cook — Cactus Club Cafe  
+*Jun 2024 – Sept 2024*  
+- Adapted quickly to a fast-paced, high-pressure kitchen environment, working efficiently during peak service.  
+- Built strong teamwork, time management, and operational discipline through consistent collaboration with diverse teams.
