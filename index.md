@@ -3,28 +3,37 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Gurkeerat Singh Kakar
-Data Science & Analytics Enthusiast — I transform complex datasets into clear insights, actionable strategies, and data-driven decisions.
+<div class="hero">
+  <div class="hero-text">
+    <h1>Hi, I’m Gurkeerat Singh Kakar</h1>
+    <p><strong>Data Science &amp; Analytics Enthusiast</strong> — I transform complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
 
-<img src="/assets/IMG_7876.JPG" alt="Gurkeerat Kakar headshot" class="headshot-side">
+    <p>
+      I am a Computing Science student at the <strong>University of Alberta (Class of 2026)</strong>, specializing in data science and analytics. 
+      My work focuses on turning raw, unstructured data into meaningful insights through visualization, statistical analysis, and modern analytical tools.
+    </p>
+  </div>
 
-I am a Computing Science student at the **University of Alberta (Class of 2026)**, specializing in data science and analytics. My work focuses on turning raw, unstructured data into meaningful insights through visualization, statistical analysis, and modern analytical tools.
+  <div class="hero-media">
+    <img src="/assets/IMG_7876.JPG" alt="Gurkeerat Kakar headshot" class="headshot">
+  </div>
+</div>
 
 ## Current Focus
 - B.Sc. in Computing Science (Specialization) with a focus on Applied Data Science  
 - Science Internship (Co-op) Program — eligible for 4–12 month full-time work terms  
-- Recipient of the **UASU Students’ Union Award for Global Connection**  
+- Recipient of the <strong>UASU Students’ Union Award for Global Connection</strong>  
 - Building skills in data engineering, visualization, and analytical modelling  
 
 ---
 
-## Skills & Tools
-- **Programming:** Python, R, SQL, Java, C  
-- **Data Visualization:** Power BI, Tableau, Excel  
-- **Databases:** MySQL, Firebase, relational modelling  
-- **Data Workflows:** Cleaning, wrangling, transformations, ETL  
-- **Statistical Analysis:** EDA, KPI development, hypothesis testing  
-- **Professional Strengths:** Analytical thinking, data storytelling, collaboration  
+## Skills &amp; Tools
+- <strong>Programming:</strong> Python, R, SQL, Java, C  
+- <strong>Data Visualization:</strong> Power BI, Tableau, Excel  
+- <strong>Databases:</strong> MySQL, Firebase, relational modelling  
+- <strong>Data Workflows:</strong> Cleaning, wrangling, transformations, ETL  
+- <strong>Statistical Analysis:</strong> EDA, KPI development, hypothesis testing  
+- <strong>Professional Strengths:</strong> Analytical thinking, data storytelling, collaboration  
 
 ---
 
@@ -38,13 +47,13 @@ I am a Computing Science student at the **University of Alberta (Class of 2026)*
 ---
 
 ## Experience Snapshot
-- **Research Assistant — University of Alberta:** socioeconomic data analysis, R-based dashboards  
-- **Data/Business Analyst Intern — Skill-Up:** automated pipelines, BI dashboards, process optimizations 
+- <strong>Research Assistant — University of Alberta:</strong> socioeconomic data analysis, R-based dashboards  
+- <strong>Data/Business Analyst Intern — Skill-Up:</strong> automated pipelines, BI dashboards, process optimizations 
 
 ---
 
 ## Explore My Work
-[**View Projects →**](/projects/)
+[<strong>View Projects →</strong>](/projects/)
 
 ---
 
