@@ -271,18 +271,23 @@ a:hover {
 
 .about-image {
   width: 100%;
-  max-width: 320px;
-  border-radius: 16px;
+  max-width: 260px;
+  border-radius: 50%;               /* makes it perfectly round */
   display: block;
-  margin: 0 0 8px auto;
-  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.8);
-  object-fit: cover;
+  margin: 0 auto 16px;              /* centers image & adds spacing */
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.45);
+  object-fit: cover;                /* ensures the round frame crops correctly */
+  aspect-ratio: 1/1;                /* forces a perfect circle */
 }
 
+/* Optional: caption styling below each hobby image */
 .about-caption {
   font-size: 13px;
   color: var(--muted);
+  text-align: center;
+  margin-bottom: 18px;
 }
+
 
 /* Cards */
 .card {
@@ -306,6 +311,7 @@ a:hover {
   font-size: 14px;
   margin-bottom: 4px;
 }
+
 
 /* Lists */
 ul {

@@ -18,19 +18,22 @@ title: About
       Since then, I have been building dashboards, analysing trends, and working with Python, R, SQL, and Power BI to transform raw data into practical, usable information.
     </p>
   </div>
-
-  <div class="about-aside">
-    <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performing music" class="about-image">
-    <p class="about-caption">
-      Outside work, I enjoy performing and exploring music alongside football, reading, and cooking.
-    </p>
-  </div>
 </div>
 
 ---
 
 ### Outside the Data World
 
+<div class="about-aside">
+    <img src="/assets/IMG_7685.jpg" alt="Gurkeerat performing music" class="about-image">
+    <p class="about-caption">
+      Amateur singer & performer.
+    </p>
+    <img src="/assets/soccer.jpg" alt="Playing Soccer" class="about-image">
+    <p class="about-caption">Football Intramural League.
+    </p>
+  </div>
+  
 - I follow European football closely and enjoy the tactical and analytical side of the game.  
 - Music is a creative outlet where I compose, experiment with melodies, and perform when I can.  
 - I enjoy reading about habits, routines, time management, and thoughtful biographies.  

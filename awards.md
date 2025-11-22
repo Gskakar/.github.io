@@ -14,6 +14,9 @@ Here are a few selected academic, leadership, and technical recognitions.
   <div class="cert-card">
     <img src="/assets/uasu_certificate.jpeg" alt="UASU Students' Union Award for Global Connection certificate">
     <p>UASU Students’ Union Award for Global Connection</p>
+    <img src="/assets/uasu_award.jpg" alt="Receiving UASU Award" class="about-image">
+    <p class="about-caption">Receiving the UASU Global Connection Award.
+    </p>
   </div>
 </div>
 
