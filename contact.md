@@ -25,9 +25,10 @@ title: Contact
       <a class="button button-primary" href="/assets/Gurkeerat_SK_Resume.pdf">Download résumé</a>
     </p>
 
-  <p style="color: var(--muted); font-size: 14px;">
+  </div>
+
+   <p style="color: var(--muted); font-size: 14px;">
   If you encounter any broken links or access issues while browsing my site, please reach out — I’m happy to resolve them quickly.
 </p>
 
-  </div>
 </div>

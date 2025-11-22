@@ -6,7 +6,7 @@ permalink: /awards/
 
 # Awards & Certifications
 
-Here are selected academic, leadership, and technical recognitions.
+Here are a few selected academic, leadership, and technical recognitions.
 
 ## Awards
 
@@ -22,7 +22,7 @@ Here are selected academic, leadership, and technical recognitions.
 <div class="cert-grid">
   <div class="cert-card">
     <img src="/assets/powerbi_certificate.png" alt="Power BI Certificate">
-    <p>Microsoft Power BI</p>
+    <p>Data Visualization Power BI </p>
   </div>
 
   <div class="cert-card">
