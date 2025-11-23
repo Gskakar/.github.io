@@ -8,7 +8,7 @@ title: Contact
 <div class="contact-grid">
   <div>
     <p>
-      I am open to opportunities in data science, analytics, and business intelligence, as well as collaborations on data-driven projects.
+      I am open to opportunities in data science, analytics, and business intelligence, as well as collaborations on data driven projects.
     </p>
 
     <ul>
@@ -28,7 +28,8 @@ title: Contact
   </div>
 
    <p style="color: var(--muted); font-size: 14px;">
-  If you encounter any broken links or access issues while browsing my site, please reach out — I’m happy to resolve them quickly.
+  If you encounter any broken links or access issues while browsing my site, please reach out 
+  I’m happy to resolve them quickly.
 </p>
 
 </div>

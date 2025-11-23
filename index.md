@@ -59,6 +59,9 @@ title: Home
 ## Let’s Connect
 Thank you for visiting my profile, please feel free to reach out for opportunities or collaborations!
 
-**Email:** gurkeeratkakar@gmail.com  
-**LinkedIn:** www.linkedin.com/in/gurkeeratkakar  
-**Phone:** +1 (825)-888-0227
+<ul>
+      <li><strong>Email:</strong> <a href="mailto:gurkeeratkakar@gmail.com">gurkeeratkakar@gmail.com</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gurkeeratkakar" target="_blank">linkedin.com/in/gurkeeratkakar</a></li>
+      <li><strong>Phone:</strong> +1 (825) 888-0227</li>
+    </ul>
+  </div>

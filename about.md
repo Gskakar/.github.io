@@ -33,9 +33,9 @@ title: About
 
 </div>
 
----
+ <hr>
 
-## Outside the Data World
+    <h3>Outside the Data World</h3>
 
 <ul>
   <li>I follow European football closely and enjoy the tactical and analytical side of the game.</li>

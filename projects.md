@@ -23,16 +23,16 @@ Cleaned and transformed data using Python and R, and developed custom indicators
 Analyzed multi-table business datasets using Python and Excel, and developed a **Tableau dashboard** visualizing revenue trends, repair frequency, employee performance, and customer segmentation.
 
 **Links:**  
-- [Dashboard Visualizations – Charts & Insights](https://docs.google.com/presentation/d/1b5q-1kTkRc4JzTwYNZBSOO_DnC1PuAMa/edit?usp=sharing&ouid=117105990485077395410&rtpof=true&sd=true)
+- [Dashboard Visualizations - Charts & Insights](https://docs.google.com/presentation/d/1b5q-1kTkRc4JzTwYNZBSOO_DnC1PuAMa/edit?usp=sharing&ouid=117105990485077395410&rtpof=true&sd=true)
 
 ---
 
-### **LuckySpot – Lottery-Based Event Management App**  
+### **LuckySpot: Lottery-Based Event Management App**  
 *Java · Firebase · Android Studio · Agile/Scrum*  
 Co-developing a mobile application that enables **fair lottery-based event participation** with three interactive user roles:  
-- **Entrants** – join events and enter lotteries  
-- **Organizers** – create and manage events  
-- **Admins** – maintain platform fairness and integrity  
+- **Entrants** join events and enter lotteries  
+- **Organizers** create and manage events  
+- **Admins** maintain platform fairness and integrity  
 
 Includes Firebase Authentication, Firestore database, Agile sprints, GitHub collaboration, UML diagrams, and documented backlog + test cases.
 
@@ -42,13 +42,13 @@ Includes Firebase Authentication, Firestore database, Agile sprints, GitHub coll
 
 ---
 
-### **Twitter-like Social Media Platform (CLI-Based)**  
+### **Twitter-like Social Media Platform (CLI Based)**  
 *Python · SQL · MongoDB · DBMS*  
-Developed a command-line social media system supporting user registration, posting, following, and persistent data storage.  
-Optimized SQL queries for authentication and feed operations, and implemented clean modular design with Git-based collaboration.
+Developed a command line social media system supporting user registration, posting, following, and persistent data storage.  
+Optimized SQL queries for authentication and feed operations, and implemented clean modular design with Git based collaboration.
 
 **Links:**  
-- [SQL Project – GitHub](https://github.com/cmput291-w25/w25-project1-its-sql-good)  
-- [MongoDB Project – GitHub](https://github.com/cmput291-w25/w25-project2-mongo-unchained)
+- [SQL Project - GitHub](https://github.com/cmput291-w25/w25-project1-its-sql-good)  
+- [MongoDB Project - GitHub](https://github.com/cmput291-w25/w25-project2-mongo-unchained)
 
 ---
