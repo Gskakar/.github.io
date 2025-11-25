@@ -6,35 +6,32 @@ title: Home
 <div class="hero">
   <div class="hero-text">
     <h1>Hello, I’m Gurkeerat Singh Kakar</h1>
-    <p><strong>Data Science &amp; Analytics Enthusiast</strong> — transforming complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
+    <p><strong>Data Science &amp; Analytics Enthusiast</strong>, I transform complex datasets into clear insights, actionable strategies, and data driven decisions.</p>
 
     <p>
-      I am a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics.
+      I am a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
     </p>
   </div>
 
   <div class="hero-media">
     <img src="/assets/IMG_7876.JPG" alt="Gurkeerat Kakar headshot" class="headshot">
   </div>
-</div>
-
----
 
 ## Current Focus
 - B.Sc. in Computing Science (Specialization) pursuing certification in Applied Data Science  
-- Science Internship (Co-op) Program, eligible for 4–12 month full-time work terms  
+- Science Internship (Co-op) Program, eligible for 4-12 month full time work terms  
 - Recipient of the **UASU Students’ Union Award for Global Connection**  
 - Building skills in data engineering, visualization, and analytical modelling
 
 ---
 
 ## Skills &amp; Tools
-- **Programming:** Python, R, SQL, Java, C  
-- **Data Visualization:** Power BI, Tableau, Excel  
-- **Databases:** MySQL, Firebase Storage  
-- **Data Workflows:** Data cleaning, transformations, ETL processes  
-- **Statistical Analysis:** EDA, KPI development, hypothesis testing  
-- **Professional Strengths:** Analytical thinking, data storytelling, teamwork & collaboration  
+- <strong>Programming:</strong> Python, R, SQL, Java, C  
+- <strong>Data Visualization:</strong> Power BI, Tableau, Excel  
+- <strong>Databases:</strong> MySQL, Firebase Storage  
+- <strong>Data Workflows:</strong> Data Cleaning, transformations, ETL processes
+- <strong>Statistical Analysis:</strong> EDA, KPI development, hypothesis testing  
+- <strong>Professional Strengths:</strong> Analytical thinking, data storytelling, teamwork & collaboration  
 
 ---
 
@@ -48,21 +45,21 @@ title: Home
 ---
 
 ## Experience Snapshot
-- **Research Assistant — University of Alberta:** socioeconomic data analysis, R-based dashboards  
-- **Data/Business Analyst Intern — Skill-Up:** automated pipelines, BI dashboards, process optimization  
+- <strong>Research Assistant: University of Alberta</strong> socioeconomic data analysis, R-based dashboards  
+- <strong>Data/Business Analyst Intern: Skill-Up</strong> automated pipelines, BI dashboards, process optimizations 
 
 ---
 
-## Explore My Work  
-[**View Projects →**](/projects/)
+## Explore My Work
+[<strong>View Projects →</strong>](/projects/)
 
 ---
 
-## Let’s Connect  
-Thank you for visiting my profile — feel free to reach out for opportunities or collaborations!
+## Let’s Connect
+Thank you for visiting my profile, please feel free to reach out for opportunities or collaborations!
 
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:gurkeeratkakar@gmail.com">gurkeeratkakar@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gurkeeratkakar" target="_blank">linkedin.com/in/gurkeeratkakar</a></li>
-  <li><strong>Phone:</strong> +1 (825) 888-0227</li>
-</ul>
+      <li><strong>Email:</strong> <a href="mailto:gurkeeratkakar@gmail.com">gurkeeratkakar@gmail.com</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gurkeeratkakar" target="_blank">linkedin.com/in/gurkeeratkakar</a></li>
+      <li><strong>Phone:</strong> +1 (825) 888-0227</li>
+    </ul>
