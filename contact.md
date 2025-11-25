@@ -28,8 +28,8 @@ title: Contact
   </div>
 
    <p style="color: var(--muted); font-size: 14px;">
-  If you encounter any broken links or access issues while browsing my site, please reach out 
-  I’m happy to resolve them quickly.
+  If you encounter any broken links or access issues while browsing my site, please reach out.
+  I’m happy to resolve them quickly!
 </p>
 
 </div>

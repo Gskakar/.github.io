@@ -6,7 +6,7 @@ permalink: /awards/
 
 # Awards & Certifications
 
-Here are a few selected academic, leadership, and technical recognitions.
+Here are a few of my academic, leadership, and technical recognitions:
 
 ## Awards
 

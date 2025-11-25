@@ -22,7 +22,7 @@ title: Home
 
 ## Current Focus
 - B.Sc. in Computing Science (Specialization) pursuing certification in Applied Data Science  
-- Science Internship (Co-op) Program, eligible for 4–12 month full-time work terms  
+- Science Internship (Co-op) Program, eligible for 4-12 month full time work terms  
 - Recipient of the **UASU Students’ Union Award for Global Connection**  
 - Building skills in data sciences, analytical modelling, and data reporting with visualizations
 

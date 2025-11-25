@@ -7,7 +7,7 @@ title: Experience
 
 ---
 
-### Research Assistant — University of Alberta  
+### Research Assistant - University of Alberta  
 *Sept 2025 – Present*  
 - Analyzing large scale household survey datasets using **R**, focusing on socioeconomic indicators and rural/urban disparities.  
 - Developing spatial dashboards (choropleth maps, longitudinal trend views) to support evidence-based research and policy evaluation.  
@@ -15,7 +15,7 @@ title: Experience
 
 ---
 
-### Data/Business Analyst Intern — Skill-Up Technologies  
+### Data/Business Analyst Intern - Skill-Up Technologies  
 *Feb 2025 – Jul 2025*  
 - Automated **MySQL → Power BI** reporting workflows, reducing manual reporting time by **~30%**.  
 - Designed KPI dashboards that improved user engagement and contributed to a **~20% increase in course completion rates**.  
@@ -24,7 +24,7 @@ title: Experience
 
 ---
 
-### Vice President Internal — University of Alberta International Students' Association  
+### Vice President Internal - University of Alberta International Students' Association  
 *May 2024 – Apr 2025*  
 - Revitalized the **I-Card discount program**, restructured internal operations, and enhanced governance consistency across teams.  
 - Led intercultural initiatives and supported community development activities for over 9,000+ international students.  
@@ -33,14 +33,14 @@ title: Experience
 
 ---
 
-### Sales Associate — JD Sports  
+### Sales Associate - JD Sports  
 *May 2024 – Sept 2024*  
 - Provided tailored product recommendations by understanding customer needs and sports-specific preferences.  
 - Strengthened communication and customer engagement skills, contributing to improved store sales performance.
 
 ---
 
-### Line Cook — Cactus Club Cafe  
+### Line Cook - Cactus Club Cafe  
 *Jun 2024 – Sept 2024*  
 - Adapted quickly to a fast paced, high pressure kitchen environment, working efficiently during peak service.  
 - Built strong teamwork, time management, and operational discipline through consistent collaboration with diverse teams.
