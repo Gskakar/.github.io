@@ -6,7 +6,7 @@ title: Home
 <div class="hero">
   <div class="hero-text">
     <h1>Hello, I’m Gurkeerat Singh Kakar</h1>
-    <p><strong>Data Science &amp; Analytics Enthusiast</strong> transforming complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
+    <p><strong>Data Science &amp; Analytics enthusiast,</strong> transforming complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
 
     <p>
       I'm a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
@@ -48,8 +48,8 @@ title: Home
 ---
 
 ## Experience Snapshot
-- **Research Assistant — University of Alberta:** socioeconomic data analysis, R-based ETL workflow, and Power BI dashboards  
-- **Data/Business Analyst Intern — Skill-Up:** automated pipelines, BI dashboards, and process optimization  
+- **Research Assistant - University of Alberta:** socioeconomic data analysis, R-based ETL workflow, and Power BI dashboards  
+- **Data/Business Analyst Intern - Skill-Up:** automated pipelines, BI dashboards, and process optimization  
 
 ---
 

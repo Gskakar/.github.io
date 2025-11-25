@@ -29,7 +29,7 @@ Here are a few of my academic, leadership, and technical recognitions:
 <div class="cert-grid">
   <div class="cert-card">
     <img src="/assets/powerbi_certificate.png" alt="Power BI Certificate">
-    <p>Power BI — Data Visualization</p>
+    <p>Power BI - Data Visualization</p>
   </div>
 
   <div class="cert-card">
