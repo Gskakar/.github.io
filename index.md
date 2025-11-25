@@ -6,10 +6,11 @@ title: Home
 <div class="hero">
   <div class="hero-text">
     <h1>Hello, I’m Gurkeerat Singh Kakar</h1>
-    <p><strong>Data Science &amp; Analytics Enthusiast</strong> — I transform complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
+    <p><strong>Data Science &amp; Analytics Enthusiast</strong> 
+    I transform complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
 
     <p>
-      I am a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
+      I'm a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
     </p>
   </div>
 
@@ -24,7 +25,7 @@ title: Home
 - B.Sc. in Computing Science (Specialization) pursuing certification in Applied Data Science  
 - Science Internship (Co-op) Program, eligible for 4–12 month full-time work terms  
 - Recipient of the **UASU Students’ Union Award for Global Connection**  
-- Building skills in data engineering, visualization, and analytical modelling  
+- Building skills in data sciences, analytical modelling, and data reporting with visualizations
 
 ---
 
@@ -32,8 +33,8 @@ title: Home
 - **Programming:** Python, R, SQL, Java, C  
 - **Data Visualization:** Power BI, Tableau, Excel  
 - **Databases:** MySQL, Firebase Storage  
-- **Data Workflows:** Data cleaning, transformations, ETL processes  
-- **Statistical Analysis:** EDA, KPI development, hypothesis testing  
+- **Data Workflows:** Data cleaning, ETL processes, data visualization
+- **Statistical Analysis:** EDA, KPI reporting, hypothesis testing  
 - **Professional Strengths:** Analytical thinking, data storytelling, teamwork & collaboration  
 
 ---
@@ -41,15 +42,15 @@ title: Home
 ## What I Work On
 - Preparing and transforming datasets for analysis  
 - Designing interactive dashboards and BI reports  
-- Running statistical and trend analysis using Python and R  
+- Running statistical trend analysis using Python and R  
 - Automating data workflows with SQL and Python  
 - Supporting projects using Agile practices and Git/GitHub version control  
 
 ---
 
 ## Experience Snapshot
-- **Research Assistant — University of Alberta:** socioeconomic data analysis, R-based dashboards  
-- **Data/Business Analyst Intern — Skill-Up:** automated pipelines, BI dashboards, process optimization  
+- **Research Assistant — University of Alberta:** socioeconomic data analysis, R-based ETL workflow, and Power BI dashboards  
+- **Data/Business Analyst Intern — Skill-Up:** automated pipelines, BI dashboards, and process optimization  
 
 ---
 
@@ -59,7 +60,7 @@ title: Home
 ---
 
 ## Let’s Connect
-Thank you for visiting my profile — feel free to reach out for opportunities or collaborations!
+Thank you for visiting my profile, please feel free to reach out for opportunities or collaborations!
 
 <ul>
   <li><strong>Email:</strong> <a href="mailto:gurkeeratkakar@gmail.com">gurkeeratkakar@gmail.com</a></li>
