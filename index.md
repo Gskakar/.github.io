@@ -6,8 +6,7 @@ title: Home
 <div class="hero">
   <div class="hero-text">
     <h1>Hello, I’m Gurkeerat Singh Kakar</h1>
-    <p><strong>Data Science &amp; Analytics Enthusiast</strong> 
-    I transform complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
+    <p><strong>Data Science &amp; Analytics Enthusiast</strong> transforming complex datasets into clear insights, actionable strategies, and data-driven decisions.</p>
 
     <p>
       I'm a Computing Science student at the <strong>University of Alberta (Class of 2027)</strong>, specializing in data science and analytics. 
