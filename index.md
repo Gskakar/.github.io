@@ -64,4 +64,3 @@ Thank you for visiting my profile, please feel free to reach out for opportuniti
       <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gurkeeratkakar" target="_blank">linkedin.com/in/gurkeeratkakar</a></li>
       <li><strong>Phone:</strong> +1 (825) 888-0227</li>
     </ul>
-  </div>
